@@ -1,0 +1,58 @@
+인텔리제 단축키
+
+[프로젝트 트리]
+- 프로젝트 트리로 포커스 옮기기 ::: com+1
+- 클래스 미리보기 ::: space
+- 파일생성
+    - 에디터에서 : ctrl+alt+N
+    - 프로젝트에서 : ctrl+N
+
+[에디터]
+- 에디터 창 최대화 ::: com+shfit+F12
+- 다른 파일로 이동 ::: ctrl+Tab
+
+[커서이동]
+- 단어별 이동 ::: alt+ <-, ->
+- 라인 끝 ::: fn+ <-,->
+
+[주석]
+- 한줄 ::: com+/
+- 블럭 ::: alt+com+/
+
+[들여쓰기]
+- 인덴트 ::: tab
+- 인덴트 취소 ::: shift+tab
+- 전체 인덴트 ::: ctrl+alt+I
+
+[코드찾기]
+- ctrl+B
+- alt+F7
+
+[파일검색]
+- com+F
+- 이동 : com+G
+
+[코딩]
+- psvn ::: 메인메소드 자동완성
+- sout  ::: system.out.println 자동완성
+- alt+enter ::: import 등 에러처리
+- F2, shift+F2 ::: 에러발생 코드로 이동
+- ctrl+alt+o ::: 쓰이지 않는 import 청소
+- com+N ::: getter, setter,생성자 메소드 생성
+- ctrl+o ::: 메소드 override
+- alt+F12 ::: 터미널창 오픈
+- shift_com+enter ::: 코드마무리 자동완성
+- com+R ::: 파일 내 모든 단어 바꾸기
+- com+shift+R ::: 패키지 내 모든 단어 바꾸기
+- ctrl+ctrl ::: 실행시키기 run anything
+- ctrl+shift+R ::: 	현재 포커스 된 에디터에서 실행
+- ctrl+R ::: 최근 실행된 것 실행
+- com+F2 ::: 실행중 강제종료
+- com+D ::: 라인복사
+- com +Delete ::: 라인삭제
+- com+P ::: 해당메소드의 파라미터 정보 보기
+- alt+space ::: 메소드 미리보기
+- fn+1 ::: 클래스,메소드의 상세설명
+
+- shift-com-a ::: 단축키 정보
+
